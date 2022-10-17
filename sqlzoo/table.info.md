@@ -18,3 +18,11 @@ capital     varchar(60)
 tld         varchar(5)
 flag        varchar(255)
 ```
+
+## 3. SEECT from Nobel Tutorial
+
+```sql
+yr
+subject
+winner
+```

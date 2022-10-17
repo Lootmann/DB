@@ -16,3 +16,5 @@ SQL Trainings.
   - [x] [quiz - SELECT](https://sqlzoo.net/wiki/SELECT_Quiz)
   - [x] [SELECT from WORLD Tutorial](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
   - [x] [quiz - BBC](https://sqlzoo.net/wiki/BBC_QUIZ)
+  - [x] [SELECT from Nobel Tutorial](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
+  - [x] [quiz - Nobel Quiz](https://sqlzoo.net/wiki/Nobel_Quiz)
