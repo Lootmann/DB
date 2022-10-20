@@ -20,3 +20,7 @@ SQL Trainings.
   - [x] [quiz - Nobel Quiz](https://sqlzoo.net/wiki/Nobel_Quiz)
   - [x] [SELECT from Tutorial](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
     - 8, 9, 10
+
+## nodejs
+
+- handle sqlite3
