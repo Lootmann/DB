@@ -19,10 +19,20 @@ tld         varchar(5)
 flag        varchar(255)
 ```
 
-## 3. SEECT from Nobel Tutorial
+## 3. SELECT from Nobel Tutorial
 
 ```sql
 yr
 subject
 winner
+```
+
+## 4. SELECT within SELECT Tutorial
+
+```sql:world
+name       varchar(50)
+continent  varchar(60)
+area       Decimal
+population Decimal
+gdp        Decimal
 ```
