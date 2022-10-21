@@ -20,6 +20,8 @@ SQL Trainings.
   - [x] [quiz - Nobel Quiz](https://sqlzoo.net/wiki/Nobel_Quiz)
   - [x] [SELECT from Tutorial](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
     - 8, 9, 10
+  - [x] [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)
+  - [x] [quiz - SUM and COUNT Quiz](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz)
 
 ## nodejs
 
