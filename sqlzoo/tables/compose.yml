@@ -8,5 +8,7 @@ services:
         target: /docker-entrypoint-initdb.d
     environment:
       - MYSQL_ROOT_PASSWORD=hoge
+    ports:
+      - target: 3306
+        published: 4306
     tty: true
-
