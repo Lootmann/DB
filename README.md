@@ -22,6 +22,8 @@ SQL Trainings.
     - 8, 9, 10
   - [x] [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)
   - [x] [quiz - SUM and COUNT Quiz](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz)
+  - [ ] [The JOIN Operation](https://sqlzoo.net/wiki/The_JOIN_operation)
+    - 9 ~
 
 ## nodejs
 
