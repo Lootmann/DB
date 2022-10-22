@@ -1,0 +1,12 @@
+services:
+  mysql:
+    build:
+      context: .
+    volumes:
+      - type: bind
+        source: ./initdb.d
+        target: /docker-entrypoint-initdb.d
+    environment:
+      - MYSQL_ROOT_PASSWORD=hoge
+    tty: true
+
