@@ -11,7 +11,10 @@ SQL Trainings.
 - [x] [SQL 攻略](http://sql.main.jp/)
 - [ ] [OSS-DB Silver](https://github.com/Lootmann/LearningGuide/issues/70)
 
+## sqlzoo
+
 - [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+
   - [x] [SELECT basics](https://sqlzoo.net/wiki/SELECT_basics)
   - [x] [quiz - SELECT](https://sqlzoo.net/wiki/SELECT_Quiz)
   - [x] [SELECT from WORLD Tutorial](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
@@ -24,6 +27,9 @@ SQL Trainings.
   - [x] [quiz - SUM and COUNT Quiz](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz)
   - [ ] [The JOIN Operation](https://sqlzoo.net/wiki/The_JOIN_operation)
     - 9 ~
+
+- Docker & Components Env
+  - ~/DB/sqlzoo/tables
 
 ## nodejs
 
