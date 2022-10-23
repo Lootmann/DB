@@ -65,3 +65,25 @@ area
 population
 gdp
 ```
+
+## JOIN
+
+```
+game
+  id: 1001
+  mdate: 8 June 2012
+  stadium: National Stadium
+  team1: POL
+  team2: GRE
+
+goal
+  matchid: 1001
+  teamid: POL
+  player: name
+  gtime: 17
+
+eteam
+  id: POL
+  teamname: poland
+  coach: name
+```
