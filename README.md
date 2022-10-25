@@ -27,6 +27,8 @@ SQL Trainings.
   - [x] [quiz - SUM and COUNT Quiz](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz)
   - [x] [The JOIN Operation](https://sqlzoo.net/wiki/The_JOIN_operation)
   - [x] [JOIN Quiz](https://sqlzoo.net/wiki/JOIN_Quiz)
+  - [ ] [More JOIN](https://sqlzoo.net/wiki/More_JOIN_operations)
+    - 9 ~
 
 - Docker & Components Env
   - ~/DB/sqlzoo/tables
