@@ -87,3 +87,24 @@ eteam
   teamname: poland
   coach: name
 ```
+
+## 6.More JOIN
+
+```sql
+movie
+  id
+  title
+  yr
+  director
+  budget
+  gross
+
+actor
+  id
+  name
+
+casting
+  movieid
+  actorid
+  ord
+```
