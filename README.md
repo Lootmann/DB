@@ -22,14 +22,13 @@ SQL Trainings.
   - [x] [SELECT from Nobel Tutorial](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
   - [x] [quiz - Nobel Quiz](https://sqlzoo.net/wiki/Nobel_Quiz)
   - [x] [SELECT from Tutorial](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
-    - 8, 9, 10
   - [x] [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)
   - [x] [quiz - SUM and COUNT Quiz](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz)
   - [x] [The JOIN Operation](https://sqlzoo.net/wiki/The_JOIN_operation)
   - [x] [quiz - JOIN](https://sqlzoo.net/wiki/JOIN_Quiz)
   - [x] [More JOIN](https://sqlzoo.net/wiki/More_JOIN_operations)
-    - 14
   - [x] [quiz - JOIN 2](https://sqlzoo.net/wiki/JOIN_Quiz_2)
+  - [x] [Using Null](https://sqlzoo.net/wiki/Using_Null)
 
 - Docker & Components Env
   - ~/DB/sqlzoo/tables
