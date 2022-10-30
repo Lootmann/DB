@@ -108,3 +108,18 @@ casting
   actorid
   ord
 ```
+
+## 7. Using NULL
+
+```sql
+teacher
+  id
+  dept
+  name
+  phone
+  mobile
+
+dept
+  id
+  name
+```

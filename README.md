@@ -34,6 +34,10 @@ SQL Trainings.
 - Docker & Components Env
   - ~/DB/sqlzoo/tables
 
+## SQL JOINS cheatsheet
+
+![SQL JOINS cheatsheet](https://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
+
 ## nodejs
 
 - handle sqlite3
