@@ -114,7 +114,7 @@ casting
 ```sql
 teacher
   id
-  dept
+  dept(dept.id)
   name
   phone
   mobile
