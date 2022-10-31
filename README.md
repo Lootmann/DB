@@ -10,6 +10,7 @@ SQL Trainings.
 - [x] [一週間で身につく MySQL](http://web.sevendays-study.com/mysql/)
 - [x] [SQL 攻略](http://sql.main.jp/)
 - [ ] [OSS-DB Silver](https://github.com/Lootmann/LearningGuide/issues/70)
+- [x] [Qiita SQL 初心者](https://qiita.com/_hiro_dev/items/ece39759879c5d1f8536)
 
 ## sqlzoo
 
