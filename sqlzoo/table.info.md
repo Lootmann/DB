@@ -123,3 +123,25 @@ dept
   id
   name
 ```
+
+## NSS_Tutorial
+
+```
+               ukprn 10003861
+         institution Leeds Metropolitan University
+             subject (E) Mass Communications and Documentation
+               level First degree
+            question Q15
+ A_STRONGLY_DISAGREE 1
+          A_DISAGREE 8
+           A_NEUTRAL 8
+             A_AGREE 61
+    A_STRONGLY_AGREE 22
+                A_NA 0
+              CI_MIN 74
+               score 83
+              CI_MAX 89
+            response 148
+              sample 197
+
+```
