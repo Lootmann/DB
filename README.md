@@ -30,6 +30,7 @@ SQL Trainings.
   - [x] [More JOIN](https://sqlzoo.net/wiki/More_JOIN_operations)
   - [x] [quiz - JOIN 2](https://sqlzoo.net/wiki/JOIN_Quiz_2)
   - [x] [Using Null](https://sqlzoo.net/wiki/Using_Null)
+  - [ ] [NSS Tutorial](https://sqlzoo.net/wiki/NSS_Tutorial)
 
 - Docker & Components Env
   - ~/DB/sqlzoo/tables
